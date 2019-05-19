@@ -12,7 +12,7 @@ const INMUTABLE_CACHE = "inmutable-v1";
 //Creamos el APP_SHELL con todo lo necesarios para que la PWA funcione
 
 const APP_SHELL = [
-    '/',
+    // '/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
